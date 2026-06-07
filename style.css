@@ -69,7 +69,7 @@ tr:nth-child(2n) {
 }
 th {
   background: var(--theme-color);
-  color: #fff;
+  color: #c5d4ca;
 }
 th, td {
   border: solid 1px #f0f0f0;
